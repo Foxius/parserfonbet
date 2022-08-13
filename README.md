@@ -16,3 +16,5 @@
 # Алгоритм работы для юзера
 
 перейти по ссылке 0.0.0.0:80 и наслаждаться
+
+![rephoto0](https://media.discordapp.net/attachments/927545383612203018/1008059898191413358/unknown.png?width=433&height=473)
